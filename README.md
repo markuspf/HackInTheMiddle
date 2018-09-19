@@ -14,6 +14,7 @@ GAP comes with an SCSCP package (called SCSCP) and a WIP package
 ## How to use this hack
 
  1) Consider whether you really do want to do this to yourself.
+ 1a) to install scscp for sage run `sage --pip install scscp --user`
  2) If yes, then, run in two different terminals
  ```
   # sage orgiami_server.sage
